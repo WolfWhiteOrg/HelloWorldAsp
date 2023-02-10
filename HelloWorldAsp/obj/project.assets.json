@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\HelloWorldAsp\\HelloWorldAsp\\HelloWorldAsp\\HelloWorldAsp.csproj",
+      "projectUniqueName": "D:\\Dev\\github\\HelloWorldAsp\\HelloWorldAsp\\HelloWorldAsp.csproj",
       "projectName": "HelloWorldAsp",
-      "projectPath": "D:\\Dev\\HelloWorldAsp\\HelloWorldAsp\\HelloWorldAsp\\HelloWorldAsp.csproj",
+      "projectPath": "D:\\Dev\\github\\HelloWorldAsp\\HelloWorldAsp\\HelloWorldAsp.csproj",
       "packagesPath": "C:\\Users\\pkarch\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\HelloWorldAsp\\HelloWorldAsp\\HelloWorldAsp\\obj\\",
+      "outputPath": "D:\\Dev\\github\\HelloWorldAsp\\HelloWorldAsp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pkarch\\AppData\\Roaming\\NuGet\\NuGet.Config",

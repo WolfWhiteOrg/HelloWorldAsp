@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AUR7QVAyjdhNSU+MOWgHaBr9D/clryPP1VJHBQbrqRAV/gAKfAMwEGgeghR0/hPilHto/z6WW6fkvhTTrlJMEQ==",
+  "dgSpecHash": "utNyxg8RTeJ95RQRNbpdYlPHmt7W+TLdwMBhvkPINt0Tut492LJjqIHOWq9p77IfILE2jho0xd47r+dn8eeXew==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\HelloWorldAsp\\HelloWorldAsp\\HelloWorldAsp\\HelloWorldAsp.csproj",
+  "projectFilePath": "D:\\Dev\\github\\HelloWorldAsp\\HelloWorldAsp\\HelloWorldAsp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

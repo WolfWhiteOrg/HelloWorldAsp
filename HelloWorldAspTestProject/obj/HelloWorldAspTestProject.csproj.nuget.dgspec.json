@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\HelloWorldAsp\\HelloWorldAsp\\HelloWorldAspTestProject\\HelloWorldAspTestProject.csproj": {}
+    "D:\\Dev\\github\\HelloWorldAsp\\HelloWorldAspTestProject\\HelloWorldAspTestProject.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\HelloWorldAsp\\HelloWorldAsp\\HelloWorldAspTestProject\\HelloWorldAspTestProject.csproj": {
+    "D:\\Dev\\github\\HelloWorldAsp\\HelloWorldAspTestProject\\HelloWorldAspTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\HelloWorldAsp\\HelloWorldAsp\\HelloWorldAspTestProject\\HelloWorldAspTestProject.csproj",
+        "projectUniqueName": "D:\\Dev\\github\\HelloWorldAsp\\HelloWorldAspTestProject\\HelloWorldAspTestProject.csproj",
         "projectName": "HelloWorldAspTestProject",
-        "projectPath": "D:\\Dev\\HelloWorldAsp\\HelloWorldAsp\\HelloWorldAspTestProject\\HelloWorldAspTestProject.csproj",
+        "projectPath": "D:\\Dev\\github\\HelloWorldAsp\\HelloWorldAspTestProject\\HelloWorldAspTestProject.csproj",
         "packagesPath": "C:\\Users\\pkarch\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\HelloWorldAsp\\HelloWorldAsp\\HelloWorldAspTestProject\\obj\\",
+        "outputPath": "D:\\Dev\\github\\HelloWorldAsp\\HelloWorldAspTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pkarch\\AppData\\Roaming\\NuGet\\NuGet.Config",

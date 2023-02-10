@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h4obpRYFOaI3QUVT9wFCQdVUnYBkNAeC56ovm2QbVDgMZv8xL/4SX1P15YRA5YM7tbCNpEpJqfkdJsECus+UCg==",
+  "dgSpecHash": "gBiwOwNkllXPnjAhGbKV6cnpNtTMMQP5sGanfyTw9JGhciXNYREn3VCI0OrH6xiAoxq+odKIt9uBbK8Vzs0F8g==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\HelloWorldAsp\\HelloWorldAsp\\HelloWorldAspTestProject\\HelloWorldAspTestProject.csproj",
+  "projectFilePath": "D:\\Dev\\github\\HelloWorldAsp\\HelloWorldAspTestProject\\HelloWorldAspTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pkarch\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\pkarch\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
